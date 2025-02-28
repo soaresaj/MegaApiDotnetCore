@@ -157,24 +157,6 @@ Startup.cs
 
 ## Como Executar
 
-1. **Clone o repositório**:
-   ```bash
-   git clone <URL_DO_REPOSITORIO>
-   cd <NOME_DO_REPOSITORIO>
-   ```
-
-2. **Instale as dependências**:
-   ```bash
-   dotnet restore
-   ```
-
-3. **Execute a aplicação**:
-   ```bash
-   dotnet run
-   ```
-
-## Início Rápido
-
 Siga os passos abaixo para configurar e executar rapidamente a MegaMan Bosses API:
 
 1. **Clone o repositório**:
